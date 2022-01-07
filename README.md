@@ -13,23 +13,7 @@
 <img align="left" alt="JackoTheDev' Github Stats" src="https://github-readme-stats.appleluis.vercel.app/api?username=JackoTheDev&show_icons=true&hide_border=true" />
 
 
-### Social Media:
 
-[<img align="left" alt="JackoTheDev.crd.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="JackoTheDev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-[<img align="left" alt="JackoTheDev | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-
-[<img align="left" alt="JackoTheDev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[<img align="left" alt="JackoTheDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="left" alt="JackoTheDev | SnapChat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />][snapchat]
-
-[<img align="left" alt="JackoTheDev | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
-
-[<img align="left" alt="JackoTheDev | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 
 <br />
 
