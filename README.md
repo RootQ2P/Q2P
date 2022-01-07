@@ -15,28 +15,6 @@
 
 
 
-<br />
-
-
-
-<br />
-<br />
-
-### Activity / Blogs:
-
-# YouTube Activity:
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-# StackOverflow Activity:
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
-
-
-# Blog Activity:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
 <br />
 
