@@ -1,4 +1,4 @@
-### Hello there 👋, im VQN 
+### Hello there 👋, im RootQ2P 
 
 
 ### I am a Developer and Designer!
@@ -28,5 +28,5 @@
 
 <br />
 
-[website]: https://JackoTheDev.xyz/
+[website]: https://q2p.xyz/
 
